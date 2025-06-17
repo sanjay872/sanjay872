@@ -30,7 +30,7 @@ An OpenAI-powered bill splitting assistant using React Native and NLP to simplif
 ### 🔹 [FinQuest](https://github.com/sanjay872/finquest)
 A gamified personal finance tracker built with Next.js and MongoDB using decision trees to drive user engagement.
 
-### 🛒 [GadgetHive](https://github.com/sanjay872/ProductService)
+### 🛒 [GadgetHive](https://github.com/sanjay872/GadgetHive)
 Laptop shopping platform with vendor and buyer roles, CI/CD via Jenkins, hosted on AWS.
 
 ### 👨‍🏫 [Dyscalculia Helper](https://github.com/sanjay872/DyscalculiaHelperApp)
