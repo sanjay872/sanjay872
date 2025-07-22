@@ -36,12 +36,6 @@ Laptop shopping platform with vendor and buyer roles, CI/CD via Jenkins, hosted 
 ### 👨‍🏫 [Dyscalculia Helper](https://github.com/sanjay872/DyscalculiaHelperApp)
 Assistive app for children with learning disabilities, integrating deep learning voice recognition.
 
-
-## 📊 GitHub Stats
-
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay872&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay872&layout=compact)
-
 ## 🌱 Currently Learning
 
 - Kafka for async microservices communication  
