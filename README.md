@@ -1,48 +1,72 @@
 # 👋 Hi, I'm Sanjay Sakthivel
 
-🎓 Graduate Student in Computer Science @ Illinois Institute of Technology  
-💻 Software Engineer with 2+ years experience in scalable microservices & AI-integrated tools  
-🌟 Passionate about backend engineering, platform tools, and AI-enhanced learning systems  
-📍 Currently in Chicago, IL
+Backend-Focused Software Engineer | Java & Python  
+Building scalable microservices, distributed systems, and production-ready backend platforms.
+
+📍 Chicago, IL  
+🎓 M.S. Computer Science – Illinois Institute of Technology  
+
+---
 
 ## 💼 About Me
 
-I'm a software engineer and CS graduate student who loves turning ideas into reliable systems. I’ve worked with large-scale Java microservices, built AI-driven applications, and shipped internal tools that made developers more productive.  
-Currently building **QuantiLearn**, an adaptive e-learning platform using Kafka, Redis, and Spring Boot microservices.
+I’m a backend-focused software engineer with experience designing and building scalable microservices, REST APIs, and data-driven systems.  
 
-## 🛠️ Tech Stack
+My work centers around clean API design, distributed communication, caching strategies, and production reliability. I enjoy building systems that are simple at small scale and evolve cleanly as usage grows.
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frameworks:** Spring Boot, Node.js, Express.js, Flask, Angular, React, Next.js, React Native  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps:** Docker, Jenkins, GitHub Actions, AWS (EC2, S3), Firebase  
-**APIs & Messaging:** GraphQL, Kafka, OpenAI API, Gemini API
+Currently building **QuantiLearn**, an adaptive learning platform powered by Spring Boot microservices, Kafka, and Redis.
 
+---
+
+## 🛠️ Core Stack
+
+**Backend:**  
+Java, Spring Boot, Python, REST APIs, Microservices Architecture  
+
+**Data & Storage:**  
+PostgreSQL, MySQL, MongoDB, Redis  
+
+**Messaging & Async:**  
+Kafka, Event-Driven Systems  
+
+**Cloud & DevOps:**  
+Docker, AWS (EC2, S3), CI/CD  
+
+**Frontend (when needed):**  
+React, Angular, Next.js  
+
+---
 
 ## 📌 Featured Projects
 
 ### 📘 [QuantiLearn](https://github.com/sanjay872/QuantiLearn)
-An AI-powered e-learning platform that adapts lesson plans and tracks user progress in real time using Redis, Kafka, and Spring Boot.
-
-### 🔹 [FairShare](https://github.com/sanjay872/FairShare)
-An OpenAI-powered bill splitting assistant using React Native and NLP to simplify group payments.
-
-### 🔹 [FinQuest](https://github.com/sanjay872/finquest)
-A gamified personal finance tracker built with Next.js and MongoDB using decision trees to drive user engagement.
+Adaptive e-learning platform built with Spring Boot microservices, Redis caching, and Kafka-based event-driven communication.  
+Focus: scalable architecture, user progress tracking, and AI-assisted lesson generation.
 
 ### 🛒 [GadgetHive](https://github.com/sanjay872/GadgetHive)
-Laptop shopping platform with vendor and buyer roles, CI/CD via Jenkins, hosted on AWS.
+Role-based e-commerce platform with separate microservices for products and vendors.  
+Deployed using Docker and CI/CD pipelines on AWS.
 
-### 👨‍🏫 [Dyscalculia Helper](https://github.com/sanjay872/DyscalculiaHelperApp)
-Assistive app for children with learning disabilities, integrating deep learning voice recognition.
+### 🤖 [FairShare](https://github.com/sanjay872/FairShare)
+AI-powered bill-splitting assistant leveraging NLP APIs for natural input parsing.  
+Built with React Native and backend integration.
 
-## 🌱 Currently Learning
+### 📊 [FinQuest](https://github.com/sanjay872/finquest)
+Gamified personal finance tracker using data modeling and backend decision logic to drive user engagement.
 
-- Kafka for async microservices communication  
-- Kubernetes & Docker for orchestration  
-- AI Integration in microservices using Spring AI and OpenAI APIs
+---
 
-## 📫 Contact Me
+## 🧠 Engineering Focus
+
+- Designing clean, scalable REST APIs  
+- Data modeling & indexing strategies  
+- Distributed system fundamentals  
+- Caching & performance optimization  
+- Failure handling & reliability thinking  
+
+---
+
+## 📫 Connect
 
 📧 [sanjaysakthivel2000@gmail.com](mailto:sanjaysakthivel2000@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/sanjaysakthivel)  
