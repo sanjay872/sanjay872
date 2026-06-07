@@ -1,16 +1,13 @@
 # 👋 Hi, I'm Sanjay Sakthivel
 
-Backend-Focused Software Engineer | Java & Python  
+Software Engineer | Angular, Typescript, Golang, Java & Python  
 Building scalable microservices, distributed systems, and production-ready backend platforms.
-
-📍 Chicago, IL  
-🎓 M.S. Computer Science – Illinois Institute of Technology  
 
 ---
 
 ## 💼 About Me
 
-I’m a backend-focused software engineer with experience designing and building scalable microservices, REST APIs, and data-driven systems.  
+I’m a software engineer with experience designing and building scalable microservices, REST APIs, and data-driven systems.  
 
 My work centers around clean API design, distributed communication, caching strategies, and production reliability. I enjoy building systems that are simple at small scale and evolve cleanly as usage grows.
 
