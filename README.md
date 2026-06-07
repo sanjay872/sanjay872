@@ -17,6 +17,9 @@ Currently building **QuantiLearn**, an adaptive learning platform powered by Spr
 
 ## 🛠️ Core Stack
 
+**Frontend:**  
+Angular, React, Next.js  
+
 **Backend:**  
 Java, Golang, Spring Boot, Python, REST APIs, Microservices Architecture  
 
@@ -28,9 +31,6 @@ Kafka, Event-Driven Systems
 
 **Cloud & DevOps:**  
 Docker, AWS (EC2, S3), CI/CD  
-
-**Frontend (when needed):**  
-React, Angular, Next.js  
 
 ---
 
