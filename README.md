@@ -18,7 +18,7 @@ Currently building **QuantiLearn**, an adaptive learning platform powered by Spr
 ## 🛠️ Core Stack
 
 **Backend:**  
-Java, Spring Boot, Python, REST APIs, Microservices Architecture  
+Java, Golang, Spring Boot, Python, REST APIs, Microservices Architecture  
 
 **Data & Storage:**  
 PostgreSQL, MySQL, MongoDB, Redis  
